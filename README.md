@@ -4,7 +4,8 @@ Perform stock analysis by using Excel Macro with Visual Basic language
 
 
 ## **Overview of Project**
-The objective of this analysis is to analyze performance of multiple stocks on the market over the last few years by comparing *Total Daily Volume* and *Yearly Return* of each target stock in a particular year.
+The client is looking to process a larger amount of stock market data in a more efficient way.
+The objective is to enhance the code in order to analyze the performance of the entire stock market over the last few years by comparing *Total Daily Volume* and *Yearly Return* in a particular year.
 
 
 
