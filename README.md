@@ -1,5 +1,5 @@
 # **Stock Analysis**
-Perform stock Analysis by using Excel Macro with Visual Basic language
+Perform stock analysis by using Excel Macro with Visual Basic language
 
 
 
@@ -13,7 +13,7 @@ In 2018, only **ENPH** and **RUN** stocks had positive yearly returns, as well a
 
 ![VBA Challenge 2018](VBA_Challenge_2018.png)
 
-In 2017, all of stocks had positive return except **TERP** with (-7.2%). "DQ" had the best yearly return of 199.4%, with the lowest total daily Volume (35,796,200) in 2017.
+In 2017, all stocks had positive return except **TERP** with (-7.2%). "DQ" had the best yearly return of 199.4%, with the lowest total daily Volume (35,796,200) in 2017.
 
 ![VBA Challenge 2017](VBA_Challenge_2017.png)
 
@@ -31,7 +31,7 @@ One major disadvantage of refactoring a code is that it could be damaged if not 
 
 **Advantages of the original and refactored VBA script**
 
-The original VBA script allowed us to analyze the data for the total daily volume and yearly return for each stock. The main advantages of refactoring that VBA code was shorter data processing time and decreased memory size. Refer to the screenshots below to see the difference in the run time before and after refactoring of the code.
+The original VBA script allowed us to analyze the data for the total daily volume and yearly return for each stock. The main advantages of refactoring that VBA code were shorter data processing time and decreased memory size. Refer to the screenshots below to see the difference in the run time before and after refactoring of the code.
 
 **Disadvantages of the original and refactored VBA script**
 
